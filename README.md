@@ -11,6 +11,6 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 [![thientvse](https://avatars2.githubusercontent.com/u/4419081?s=32&v=3) thientvse](https://github.com/thientvse)  
 
 ## Tutorial
-- [Topic abount basic Kotlin](https://coding180.com/kotlin-for-android-studio-tutorial-examples/#lesson-12-launch-a-second-activity-with-values-parameters)
+- [Topic about basic Kotlin](https://coding180.com/kotlin-for-android-studio-tutorial-examples/#lesson-12-launch-a-second-activity-with-values-parameters)
 - [Tutorial with video](http://resocoder.com/2017/11/17/make-your-first-android-app-with-kotlin-android-developer-tutorial-for-beginners-code/)
 
