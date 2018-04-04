@@ -14,4 +14,4 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 - [Topic about basic Kotlin](https://coding180.com/kotlin-for-android-studio-tutorial-examples/#lesson-12-launch-a-second-activity-with-values-parameters)
 - [Tutorial with video](http://resocoder.com/2017/11/17/make-your-first-android-app-with-kotlin-android-developer-tutorial-for-beginners-code/)
 - [Todo List with Firebase](http://www.appsdeveloperblog.com/todo-list-app-kotlin-firebase/)
-
+- [Basic component in Kotlin](https://www.tutorialkart.com/kotlin-android/android-sqlite-example-application/)
