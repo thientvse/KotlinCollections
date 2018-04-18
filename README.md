@@ -15,6 +15,7 @@ I'd like to improve this library with your help! If you've fixed a bug or have a
 Name | License | BookCover
 --- | --- | ---
 [Kotlin In Action](/pdf/Kotlin_in_Action_v12_MEAP.pdf) | Dmitry Jemerov, Svetlana Isakova | <img src="/arts/kl_in_action.jpg" width="49%">
+[Kotlin for Android Developers](/pdf/Kotlin for Android Developers.pdf) | Antonio Leiva | <img src="/arts/kt_for_android.png" width="49%">
 
 ## Tutorial
 - [Topic about basic Kotlin](https://coding180.com/kotlin-for-android-studio-tutorial-examples/#lesson-12-launch-a-second-activity-with-values-parameters)
